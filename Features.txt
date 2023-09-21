@@ -1,0 +1,4 @@
+Global state with Context API
+useCallBack, useMemo and useRef to avoid uneccesary re-renders
+Conditional Rendering
+Tailwindcss
